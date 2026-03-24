@@ -18,12 +18,12 @@ Sistema web para la gestión integral del comedor de empresa desarrollado como p
 
 ## Mi rol en el proyecto
 Responsable del **desarrollo frontend, autenticación e integración API**:
-- **Sistema de autenticación y login**: Desarrollo completo del flujo de login en React[web:101][web:102]
-- **Rutas privadas por roles**: Implementación de protección de rutas según tipo de usuario (acceso diferenciado entre usuario estándar y administrador)[web:101][web:106]
-- **Componentes React**: Desarrollo de componentes para gestionar turnos y platos[web:102]
-- **Gestión de estado**: Implementación de Context API para estado global y manejo de sesiones[web:102][web:110]
-- **Integración API-Frontend**: Conexión completa con backend usando Axios[web:102]
-- **Backend**: Gestión de clases Java relacionadas con usuarios y datos[web:108]
+- **Sistema de autenticación y login**: Desarrollo completo del flujo de login en React.
+- **Rutas privadas por roles**: Implementación de protección de rutas según tipo de usuario (acceso diferenciado entre usuario estándar y administrador).
+- **Componentes React**: Desarrollo de componentes para gestionar turnos y platos.
+- **Gestión de estado**: Implementación de Context API para estado global y manejo de sesiones
+- **Integración API-Frontend**: Conexión completa con backend usando Axios.
+- **Backend**: Gestión de clases Java relacionadas con usuarios y datos.
 
 ## Equipo
 Proyecto desarrollado en equipo de 4 personas (2025).
